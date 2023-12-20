@@ -1,0 +1,7 @@
+*/__pycache__
+*.pyc
+db_creds.yaml
+localdb_creds.yaml
+products.csv
+date_details.json
+.env
